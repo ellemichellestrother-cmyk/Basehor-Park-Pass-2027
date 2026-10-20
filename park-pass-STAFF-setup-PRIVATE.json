@@ -1,0 +1,59 @@
+{
+  "combo": {
+    "shield": "8197",
+    "buddy": "5570",
+    "wiggle": "5639",
+    "goal": "4800",
+    "sprout": "7952",
+    "brainy": "6384",
+    "golden": "4887"
+  },
+  "word": {
+    "shield": "LANTERN",
+    "buddy": "CAMPFIRE",
+    "wiggle": "SPRINT",
+    "goal": "COMPASS",
+    "sprout": "MAPLE",
+    "brainy": "RIDDLE",
+    "golden": "HARVEST"
+  },
+  "chal": {
+    "shield": "SAFEHOME",
+    "buddy": "KINDHEART",
+    "wiggle": "ZOOMZOOM",
+    "goal": "SKYHIGH",
+    "sprout": "TREEHUG",
+    "brainy": "HUSHHUSH"
+  },
+  "bonus": {
+    "shield": "MEETUP",
+    "buddy": "GRATEFUL",
+    "wiggle": "HOPSCOTCH",
+    "goal": "NEXTSTEP",
+    "sprout": "BIRDWATCH",
+    "brainy": "ECHO"
+  },
+  "ev": {
+    "bear": "BEAR-Z2BF",
+    "flick1": "FLICKS-AMR6",
+    "flick2": "FLICKS-6FGN",
+    "flick3": "FLICKS-UT6V",
+    "flick4": "FLICKS-T6E4",
+    "bloom": "BLOOM-NSUV",
+    "golfish": "GOLFISH-XZDV",
+    "concert5": "CONCERT-NC5D",
+    "concert6": "CONCERT-YA2C",
+    "concert7": "CONCERT-JN4A",
+    "concert8": "CONCERT-TZVW",
+    "whales": "WHALES-Z9XQ",
+    "water1": "SPLASH-2P7Q",
+    "water2": "SPLASH-PFMA",
+    "water3": "SPLASH-V6NA",
+    "talent": "TALENT-949K",
+    "market10": "MARKET-SV4N",
+    "market11": "MARKET-WJPW",
+    "ruck": "RUCK-XHFF",
+    "candle": "CANDLE-TDZG"
+  },
+  "site": "https://ellemichellestrother-cmyk.github.io/basehor-wellness-pass/"
+}
